@@ -1,0 +1,27 @@
+---
+title: "Projects"
+---
+
+
+
+- Main project analysis plan
+- Roadmap
+- Project proposals
+    - Links to forms to submit proposals, and some instructions
+
+
+
+
+## Primary lifecourse GWAS meta analysis
+
+This is the primary project of the lifecourse GWAS consortium. The aim is to perform a meta analysis of GWAS data from multiple cohorts to identify genetic variants associated with a range of traits across the lifecourse.
+
+
+## Roadmap
+
+This is the roadmap for the lifecourse GWAS consortium.
+
+## Project proposals
+
+This is a list of project proposals for the lifecourse GWAS consortium.
+

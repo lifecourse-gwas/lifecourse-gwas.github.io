@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "resources.html#data",
+    "href": "resources.html#data",
+    "title": "Resources",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Main project analysis plan\nRoadmap\nProject proposals\n\nLinks to forms to submit proposals, and some instructions"
+  },
+  {
+    "objectID": "projects.html#primary-lifecourse-gwas-meta-analysis",
+    "href": "projects.html#primary-lifecourse-gwas-meta-analysis",
+    "title": "Projects",
+    "section": "Primary lifecourse GWAS meta analysis",
+    "text": "Primary lifecourse GWAS meta analysis\nThis is the primary project of the lifecourse GWAS consortium. The aim is to perform a meta analysis of GWAS data from multiple cohorts to identify genetic variants associated with a range of traits across the lifecourse."
+  },
+  {
+    "objectID": "projects.html#roadmap",
+    "href": "projects.html#roadmap",
+    "title": "Projects",
+    "section": "Roadmap",
+    "text": "Roadmap\nThis is the roadmap for the lifecourse GWAS consortium."
+  },
+  {
+    "objectID": "projects.html#project-proposals",
+    "href": "projects.html#project-proposals",
+    "title": "Projects",
+    "section": "Project proposals",
+    "text": "Project proposals\nThis is a list of project proposals for the lifecourse GWAS consortium."
+  },
+  {
+    "objectID": "cohorts.html",
+    "href": "cohorts.html",
+    "title": "Cohorts",
+    "section": "",
+    "text": "List of participating cohorts\nSign up form"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Aims and objectives\nCurrent status\nProjet leads\nAdvisory committee\nPrinciples of collaboration\nContact information\nFunders"
+  }
+]
