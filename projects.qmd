@@ -3,7 +3,6 @@ title: "Projects"
 ---
 
 
-
 - Main project analysis plan
 - Roadmap
 - Project proposals
@@ -25,3 +24,4 @@ This is the roadmap for the lifecourse GWAS consortium.
 
 This is a list of project proposals for the lifecourse GWAS consortium.
 
+![MRC IEU and University of Birstol logos.](images/mrcieu_bristol.png)

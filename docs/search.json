@@ -32,7 +32,7 @@
     "href": "projects.html#project-proposals",
     "title": "Projects",
     "section": "Project proposals",
-    "text": "Project proposals\nThis is a list of project proposals for the lifecourse GWAS consortium."
+    "text": "Project proposals\nThis is a list of project proposals for the lifecourse GWAS consortium.\n\n\n\nMRC IEU and University of Birstol logos."
   },
   {
     "objectID": "cohorts.html",
@@ -44,8 +44,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "The Lifecourse GWAS consortium",
     "section": "",
-    "text": "Aims and objectives\nCurrent status\nProjet leads\nAdvisory committee\nPrinciples of collaboration\nContact information\nFunders"
+    "text": "Many adverse health outcomes in later life may be influenced by processes experienced throughout one’s lifetime. The Lifecourse GWAS consortium was established by researchers at the MRC Integrative Epidemiology Unit (University of Bristol) to gain a better understanding of how exposures at different stages in the lifecourse influence later life health outcomes."
+  },
+  {
+    "objectID": "index.html#current-status",
+    "href": "index.html#current-status",
+    "title": "The Lifecourse GWAS consortium",
+    "section": "Current status",
+    "text": "Current status\nWe are currently recruiting studies to join the Consortium. Please contact lifecourse-gwas-group@bristol.ac.uk if you are interested in being involved."
+  },
+  {
+    "objectID": "index.html#executive-committee-and-core-group",
+    "href": "index.html#executive-committee-and-core-group",
+    "title": "The Lifecourse GWAS consortium",
+    "section": "Executive committee and Core group",
+    "text": "Executive committee and Core group\nThe executive committee has been set-up to provide oversight and review the development of the Lifecourse GWAS consortium. The finalised list of executive committee members is TBC.\nThe core research group comprises:\nDr. Grace Power, Prof. Gibran Hemani, Dr. Eleanor Sanderson, Dr. Genevieve Leyden and Dr. David Carslake"
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "The Lifecourse GWAS consortium",
+    "section": "Contact information",
+    "text": "Contact information\nTo get in touch please email lifecourse-gwas-group@bristol.ac.uk\n\n\n\nMRC IEU and University of Bristol logos"
+  },
+  {
+    "objectID": "index.html#aims-and-objectives",
+    "href": "index.html#aims-and-objectives",
+    "title": "The Lifecourse GWAS consortium",
+    "section": "Aims and Objectives",
+    "text": "Aims and Objectives\nInherited genetic variants may have different effects on some exposures across the lifecourse (within a population). The primary aim of this study is to generate a comprehensive resource of age-stratified genome-wide association studies (GWAS) which will be instrumental in conducting Mendelian randomization (MR) analyses of exposures at distinct lifecourse stages on later life outcomes."
   }
 ]
