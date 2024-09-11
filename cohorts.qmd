@@ -1,7 +1,11 @@
 ---
-title: "Cohorts"
+title: "Contributing studies"
 ---
 
+Please [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk) and complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG0U72k35TltGgATkuYTORv1UOFpZQVlHRDBHWUlVUFkzVjNZMjdBMTdMWS4u) if you are interested in being involved. 
 
-- List of participating cohorts
-- Sign up form
+
+List of contributing studies and respective logos to go here. 
+
+
+![MRC IEU and University of Bristol logos](images/mrcieu_bristol.png)
