@@ -88,6 +88,6 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Software\n\n\nData\n\n\n\nMRC IEU and University of Bristol logos"
+    "text": "Software\nThe analytical pipeline for the lifecourse GWAS can be found here: https://github.com/mrcieu/lifecourse-gwas\n\n\n\nMRC IEU and University of Bristol logos"
   }
 ]
