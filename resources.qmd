@@ -2,10 +2,8 @@
 title: "Resources"
 ---
 
-
 ### Software
 
-### Data
-
+The analytical pipeline for the lifecourse GWAS can be found here: https://github.com/mrcieu/lifecourse-gwas
 
 ![MRC IEU and University of Bristol logos](images/mrcieu_bristol.png)
