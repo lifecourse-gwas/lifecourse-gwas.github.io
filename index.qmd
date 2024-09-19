@@ -2,7 +2,7 @@
 title: "The Lifecourse GWAS consortium"
 ---
 
- Many adverse health outcomes in later life may be influenced by processes experienced throughout one's lifetime.  The Lifecourse GWAS consortium was established by researchers at the MRC Integrative Epidemiology Unit (University of Bristol) to gain a better understanding of how exposures at different stages in the lifecourse influence later life health outcomes. 
+The Lifecourse GWAS consortium was established by researchers at the MRC Integrative Epidemiology Unit (University of Bristol) to gain a better understanding of how exposures experienced at different stages in the lifecourse may influence later life health outcomes. 
  
 
 ### Aims and Objectives 
@@ -38,4 +38,4 @@ Dr. Grace Power, Prof. Gibran Hemani, Dr. Eleanor Sanderson, Dr. Genevieve Leyde
 
 To get in touch please email [lifecourse-gwas-group@bristol.ac.uk](mailto:lifecourse-gwas-group@bristol.ac.uk)
 
-![MRC IEU and University of Bristol logos](images/mrcieu_bristol.png)
+![](images/mrcieu_bristol.png)
