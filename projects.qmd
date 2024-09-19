@@ -9,13 +9,15 @@ We are collecting data on a comprehensive list of phenotypes every year up until
 
 We have prepared a pipeline to minimise time and energy required by analysts to contribute data to the overall effort, ensure harmonisation across cohorts, and minimise errors. The use of standardised procedures across all samples is critical in order to increase the effectiveness of the subsequent meta-analyses that will be run internally upon receipt of these GWAS. 
 
-#### Purpose
+#### Background
 
 Acute, chronic, and recurring adverse health conditions that emerge in later life are often shaped by processes experienced throughout life. Gaining a better understanding of how exposures at different stages in the lifecourse influence health outcomes is key to elucidating the potential benefits of specific disease prevention and treatment strategies.
 
-Mendelian randomisation (MR) is a technique that exploits the random assortment of genetic variants inherited from parents to offspring, independent of other traits. This reduces susceptibility to confounding factors, including confounding by undiagnosed existing disease (reverse causation). MR is increasingly being used to estimate causal effects of modifiable risk factors across the lifecourse on later life outcomes. To robustly run MR, valid instrumental variables must be employed which require large-scale datasets comprising phenotype and genotype data. Consequently, analyses are currently confined to the examination of a narrow selection of phenotypes at a few specific time periods due to data restrictions regarding the measurement of multiple phenotypes at specific time periods in most cohort studies. This consortium sets out to expand potential in this area, by aggregating these data from a wide range of cohorts. This will enable us to develop a more comprehensive set of instruments for future MR analyses to be able to estimate the effects of a range of phenotypes at multiple time periods across the lifecourse on later life outcomes.
+Mendelian randomisation (MR) is a technique that exploits the random assortment of genetic variants inherited from parents to offspring, independent of other traits. This reduces susceptibility to confounding factors, including confounding by undiagnosed existing disease (reverse causation). MR is increasingly being used to estimate causal effects of modifiable risk factors across the lifecourse on later life outcomes. To robustly run MR, valid instrumental variables must be employed which require large-scale datasets comprising phenotype and genotype data. Consequently, analyses are currently confined to the examination of a narrow selection of phenotypes at a few specific time periods due to data restrictions regarding the measurement of multiple phenotypes at specific time periods in most cohort studies. 
 
-#### Aim
+#### Aim 
+
+This consortium sets out to expand potential in this area, by aggregating these data from a wide range of cohorts. This will enable us to develop a more comprehensive set of instruments for future MR analyses to be able to estimate the effects of a range of phenotypes at multiple time periods across the lifecourse on later life outcomes.
 
 In order to explore how selected phenotypes at different stages in the lifecourse modify risk, we seek to combine the results of multiple genome-wide association studies of these phenotypes in meta-analyses. This will increase the probability of detection of genetic variants associated with individual differences to generate valid instrumental variables for use in MR analyses.
 
