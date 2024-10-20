@@ -13,7 +13,7 @@ website:
       - resources.qmd
   page-footer: |
     ---
-    <a href="https://www.bristol.ac.uk/ieu/" target="_blank"><img src="images/mrcieu_bristol.png"></a>
+    <a href="https://www.bristol.ac.uk/ieu/" target="_blank"><img src="images/mrcieu_bristol.png" width="500"></a>
     
 
 
