@@ -11,6 +11,10 @@ website:
       - projects.qmd
       - cohorts.qmd
       - resources.qmd
+  page-footer: |
+    ---
+    <a href="https://www.bristol.ac.uk/ieu/" target="_blank"><img src="images/mrcieu_bristol.png"></a>
+    
 
 
 format:
@@ -18,6 +22,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
 
 

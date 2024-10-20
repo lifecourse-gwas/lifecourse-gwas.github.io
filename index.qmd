@@ -3,7 +3,6 @@ title: "The Lifecourse GWAS consortium"
 ---
 
 The Lifecourse GWAS consortium was established by researchers at the MRC Integrative Epidemiology Unit (University of Bristol) to gain a better understanding of how exposures experienced at different stages in the lifecourse may influence later life health outcomes. 
- 
 
 ### Aims and Objectives 
  
@@ -12,30 +11,23 @@ Understanding how the influence of risk factors on disease change over the lifec
 To explore how selected exposures at different stages in the lifecourse modify risk, we will:
 
 1. Generate GWAS summary data for specified ages and age-ranges across the lifecourse for 24 phenotypes.
-2. Combine results by meta-analysing at the age X phenotype level across studies.
+2. Combine results by meta-analysing at the age X phenotype X sex level across studies.
 3. Model changes in genetic effects over time at the post-meta-analysis stage.
 4. Evaluate the influence of biasing mechanisms on GxAge interaction estimates.
 5. Conduct post GxAge analyses, for e.g. time-varying MR, and provide a user-friendly tool for researchers interested in using the data generated. 
 
-
-
 ### Current status
 
-We are currently recruiting studies to join the Consortium. Please [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk) and complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG0U72k35TltGgATkuYTORv1UOFpZQVlHRDBHWUlVUFkzVjNZMjdBMTdMWS4u) if you are interested in being involved. 
+We are currently recruiting studies to join the Consortium. Please [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk) and complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG0U72k35TltGgATkuYTORv1UOFpZQVlHRDBHWUlVUFkzVjNZMjdBMTdMWS4u) if you are interested in being involved. We welcome contributions to the broader analysis and joining the writing group. You are also welcome to propose new projects that you would lead that build on the consortium infrastructure.
 
-
-
-### Executive committee and Core group 
-
-The executive committee has been set-up to provide oversight and review the development of the Lifecourse GWAS consortium. The finalised list of executive committee members is TBC.  
+### Core group and Scientific advisory board
 
 The core research group comprises: 
 
 Dr. Grace Power, Prof. Gibran Hemani, Dr. Eleanor Sanderson, Dr. Genevieve Leyden and Dr. David Carslake 
 
+The scientific advisory board has been set-up to provide independent oversight and review the development of the Lifecourse GWAS consortium. The finalised list of these members is TBC.  
 
 ### Contact information
 
 To get in touch please email [lifecourse-gwas-group@bristol.ac.uk](mailto:lifecourse-gwas-group@bristol.ac.uk)
-
-![](images/mrcieu_bristol.png)

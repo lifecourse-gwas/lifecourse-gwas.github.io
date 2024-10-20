@@ -6,12 +6,6 @@ title: "Resources"
 
 The analytical pipeline for the lifecourse GWAS can be found here [here](https://github.com/mrcieu/lifecourse-gwas). 
 
-### Documents for collaborators 
+### Key papers
 
-- <a href="docs/principals_of_collaboration.pdf" target="_blank">Principals of Collaboration</a>
-- <a href="docs/lifecourse_gwas_analysisplan.pdf" target="_blank"> Analysis plan</a>
-
-
-
-
-![MRC IEU and University of Bristol logos](images/mrcieu_bristol.png)
+TBD
