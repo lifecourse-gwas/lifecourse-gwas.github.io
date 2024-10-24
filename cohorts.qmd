@@ -5,4 +5,4 @@ title: "Contributing studies"
 Please [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk) and complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG0U72k35TltGgATkuYTORv1UOFpZQVlHRDBHWUlVUFkzVjNZMjdBMTdMWS4u) if you are interested in being involved. 
 
 
-To support collaboration within the Lifecourse GWAS consortium we have outlined our <a href="https://uob-my.sharepoint.com/:w:/g/personal/sd20930_bristol_ac_uk/EYsqbaHSoYhCusA5zi39nicBmUC15LDaq_nIh4lVBWDtmw?e=2Zp14b" target="_blank">Principles of Collaboration</a>. If you have any queries about this please feel free to [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk). 
+To support collaboration within the Lifecourse GWAS consortium we have outlined our [Principals of Collaboration](docs/Principles_of_collaboration.pdf). If you have any queries about this please feel free to [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk). 
