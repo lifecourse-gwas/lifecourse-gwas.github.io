@@ -48,7 +48,7 @@ In order to explore how selected phenotypes at different stages in the lifecours
 
 ### Analysis plan
 
-A detailed description of the analysis plan is available [here](docs/lifecourse_gwas_analysisplan.pdf).
+A detailed description of the analysis plan is available to download [here](docs/lifecourse_gwas_analysisplan.pdf).
 
 We have an [analysis pipeline](https://github.com/MRCIEU/Lifecourse-GWAS/wiki) that will implement the first part of this analysis plan, generating summary statistics from each participating cohort
 

@@ -1,5 +1,7 @@
 ---
 title: "Resources"
+bibliography: references/key_papers.bib
+nocite: '@*'
 ---
 
 ### Software
@@ -8,4 +10,6 @@ The analytical pipeline for the lifecourse GWAS can be found here [here](https:/
 
 ### Key papers
 
-TBD
+::: {#refs}
+:::
+
