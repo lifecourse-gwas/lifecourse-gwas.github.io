@@ -8,6 +8,14 @@ nocite: '@*'
 
 The analytical pipeline for the lifecourse GWAS can be found here [here](https://github.com/mrcieu/lifecourse-gwas). 
 
+### Analyst Meetings 
+
+A recording of our most recent analyst meeting from January 2025 is accessible here.
+
+{{< video https://www.youtube.com/watch?v=k7O4esnAxY0 >}}
+
+
+
 ### Key papers
 
 ::: {#refs}
