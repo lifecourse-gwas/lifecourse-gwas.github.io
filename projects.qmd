@@ -27,10 +27,11 @@ In order to explore how selected phenotypes at different stages in the lifecours
 |	Height	|
 |	Waist circumference	|
 |	Waist to hip ratio	|
-|	Heel bone mineral density	|
+|	Total bone mineral density (DEXA)	|
 |	Forced expiratory volume in 1 second	|
 |	FEV1/FVC ratio	|
 |	Systolic blood pressure	|
+|   Diastolic blood pressure | 
 |	LDL cholesterol	|
 |	HDL cholesterol	|
 |	Triglycerides	|
@@ -43,7 +44,8 @@ In order to explore how selected phenotypes at different stages in the lifecours
 |	Calcium	|
 |	Vitamin D	|
 |	Estradiol	|
-|	Testosterone	|
+|	Total testosterone	|
+|   Bioavailable testosterone  | 
 |	Sex hormone binding globulin	|
 
 ### Analysis plan
