@@ -10,7 +10,12 @@ The analytical pipeline for the lifecourse GWAS can be found here [here](https:/
 
 ### Analyst Meetings 
 
-A recording of our most recent analyst meeting from January 2025 is accessible here.
+
+A recording of our most recent analyst meeting from March 2025 is accessible here.
+
+{{< video https://www.youtube.com/watch?v=EuKiXl0SDAs >}}
+
+A recording of a previous analyst meeting from January 2025 is accessible here.
 
 {{< video https://www.youtube.com/watch?v=k7O4esnAxY0 >}}
 
