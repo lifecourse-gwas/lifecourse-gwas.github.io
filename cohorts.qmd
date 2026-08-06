@@ -2,7 +2,52 @@
 title: "Contributing studies"
 ---
 
-Please [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk) and complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG0U72k35TltGgATkuYTORv1UOFpZQVlHRDBHWUlVUFkzVjNZMjdBMTdMWS4u) if you are interested in being involved. 
+Participating studies include:
 
-
-To support collaboration within the Lifecourse GWAS consortium we have outlined our [Principals of Collaboration](docs/Principles_of_collaboration.pdf). If you have any queries about this please feel free to [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk). 
+- Avon Longitudinal Study of Parents and Children (ALSPAC)
+- UK Biobank
+- Cardiovascular Risk in Young Finns Study (CRYFS)
+- Norwegian Mother, Father and Child Cohort Study (MoBa)
+- Special Turku Coronary Risk Factor Intervention Project (STRIP)
+- Born in Bradford (BiB)
+- Lifelines Cohort Study
+- Generation Scotland
+- Generation R Study 3
+- Generation R Study 4
+- Trøndelag Health Study (HUNT)
+- Millennium Cohort Study (MCS 1)
+- Born in Guangzhou Cohort – HKU 97BC
+- Saguenay Youth Study (SYS)
+- Nicotine Dependence in Teens Study (NDIT)
+- FinnGen
+- Raine Study (Western Australian Pregnancy Cohort)
+- National Child Development Study (NCDS 1958)
+- British Cohort Study (BCS 1970)
+- BioMe Biobank
+- Northern Finland Birth Cohort 1966 (NFBC 1966)
+- Northern Finland Birth Cohort 1986 (NFBC 1986)
+- Netherlands Epidemiology of Obesity (NEO)
+- Cardiovascular Health Study (CHS)
+- Rotterdam Study 1–4
+- Netherlands Twin Register (NTR)
+- Understanding Society (UKHLS)
+- Gene-Environment-Development Initiative (GEDI, VCU)
+- Copenhagen Prospective Studies on Asthma in Childhood (COPSAC)
+- GINIplus and LISA
+- Busselton Health Study
+- AugUR Study
+- DIACORE Study
+- INMA – INfancia y Medio Ambiente
+- HELIX – Human Early-Life Exposome
+- MyCode Community Health Initiative
+- Tohoku Medical Megabank Birth and Three-Generation Cohort
+- Ophthalmic Western Australia Biobank
+- Beijing Eye Study 1
+- Beijing Eye Study 2
+- Japan Environment and Children’s Study (JECS)
+- Harokopio University of Athens BioBank (HUABB)
+- EXCEED Cohort
+- Diabetes Heart Study (DHS)
+- African American Diabetes Heart Study (AA-DHS)
+- Multi-Ethnic Study of Atherosclerosis (MESA)
+- Estonian Biobank
