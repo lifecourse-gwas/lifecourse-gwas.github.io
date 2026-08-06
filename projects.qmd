@@ -2,63 +2,92 @@
 title: "Projects"
 ---
 
+## Lifecourse genome-wide association analyses of 26 phenotypes
 
-## Lifecourse GWAS meta-analysis
+The Consortium’s principal analysis examines how genetic associations with 26 phenotypes vary from infancy to later adulthood.
 
-We are collecting data on a comprehensive list of phenotypes every year up until 18 years of age and every five years after 18 years of age.
+### Analysis design
 
-We have prepared a pipeline to minimise time and energy required by analysts to contribute data to the overall effort, ensure harmonisation across cohorts, and minimise errors. The use of standardised procedures across all samples is critical in order to increase the effectiveness of the subsequent meta-analyses that will be run internally upon receipt of these GWAS. 
+Participating studies use harmonised phenotype definitions and a centrally developed pipeline to conduct genome-wide association analyses stratified by:
 
-### Background
+- Age or life stage
+- Sex
+- Ancestry
 
-Acute, chronic, and recurring adverse health conditions that emerge in later life are often shaped by processes experienced throughout life. Gaining a better understanding of how exposures at different stages in the lifecourse influence health outcomes is key to elucidating the potential benefits of specific disease prevention and treatment strategies.
+Analyses are conducted at annual ages from infancy to 19 years and in five-year age groups from age 20 onwards. Analyses are also conducted within broader life stages spanning birth, infancy and toddlerhood, early childhood, middle childhood, adolescence, young adulthood, middle adulthood and later adulthood.
 
-Mendelian randomisation (MR) is a technique that exploits the random assortment of genetic variants inherited from parents to offspring, independent of other traits. This reduces susceptibility to confounding factors, including confounding by undiagnosed existing disease (reverse causation). MR is increasingly being used to estimate causal effects of modifiable risk factors across the lifecourse on later life outcomes. To robustly run MR, valid instrumental variables must be employed which require large-scale datasets comprising phenotype and genotype data. Consequently, analyses are currently confined to the examination of a narrow selection of phenotypes at a few specific time periods due to data restrictions regarding the measurement of multiple phenotypes at specific time periods in most cohort studies. 
+Each phenotype and age or life-stage combination is analysed as a separate cross-sectional genome-wide association study. Participants with measurements at multiple ages can contribute to more than one age-specific analysis, but individual longitudinal trajectories are not modelled directly.
 
-### Aim 
+Study-specific results are quality controlled and combined through fixed-effects meta-analysis. Meta-analyses are conducted within European, African, East Asian, South Asian and admixed or other ancestry groups, as well as across all available ancestry groups.
 
-This consortium sets out to expand potential in this area, by aggregating these data from a wide range of cohorts. This will enable us to develop a more comprehensive set of instruments for future MR analyses to be able to estimate the effects of a range of phenotypes at multiple time periods across the lifecourse on later life outcomes.
+### Phenotypes
 
-In order to explore how selected phenotypes at different stages in the lifecourse modify risk, we seek to combine the results of multiple genome-wide association studies of these phenotypes in meta-analyses. This will increase the probability of detection of genetic variants associated with individual differences to generate valid instrumental variables for use in MR analyses.
+The following 26 phenotypes are included:
 
-|	Phenotypes 	|
-|	----------	|
-|	Body mass index	|
-|	Height	|
-|	Waist circumference	|
-|	Waist to hip ratio	|
-|	Total bone mineral density (DEXA)	|
-|	Forced expiratory volume in 1 second	|
-|	FEV1/FVC ratio	|
-|	Systolic blood pressure	|
-|   Diastolic blood pressure | 
-|	LDL cholesterol	|
-|	HDL cholesterol	|
-|	Triglycerides	|
-|	C-reactive protein	|
-|	Interleukin 6	|
-|	Leptin	|
-|	Glycated haemoglobin	|
-|	Insulin	|
-|	Adiponectin	|
-|	Calcium	|
-|	Vitamin D	|
-|	Estradiol	|
-|	Total testosterone	|
-|   Bioavailable testosterone  | 
-|	Sex hormone binding globulin	|
+| Phenotype group | Phenotypes |
+| --- | --- |
+| Body size and composition | Body mass index; BMI-for-age z-score; height; waist circumference; waist-to-hip ratio; total body bone mineral density |
+| Respiratory function | Forced expiratory volume in one second (FEV1); FEV1/FVC ratio |
+| Blood pressure | Systolic blood pressure; diastolic blood pressure; pulse pressure |
+| Lipids | LDL cholesterol; HDL cholesterol; triglycerides |
+| Metabolic and inflammatory traits | C-reactive protein; interleukin 6; leptin; glycated haemoglobin (HbA1c); insulin; adiponectin |
+| Nutritional and mineral traits | Calcium; vitamin D |
+| Reproductive hormones | Oestradiol; total testosterone; bioavailable testosterone; sex hormone-binding globulin |
 
-### Analysis plan
+Detailed definitions and preprocessing instructions are available in the [phenotype definitions section of the analysis wiki](https://github.com/MRCIEU/Lifecourse-GWAS/wiki/Phenotype-definitions).
 
+### Phase 1: Age-, sex- and ancestry-stratified GWAS
 
-We have an [analysis pipeline](https://github.com/MRCIEU/Lifecourse-GWAS/wiki) that will implement the first part of this analysis plan, generating summary statistics from each participating cohort
+Participating studies apply the central analysis pipeline to generate genome-wide association results for each available phenotype, age or life-stage, sex and ancestry stratum.
 
-![](images/roadmap.png)
+The pipeline standardises:
 
-## Project proposals
+- Phenotype preparation
+- Age and life-stage classification
+- Ancestry classification
+- Genetic quality control
+- Polygenic risk score analyses
+- Genome-wide association analyses
 
-Our aim is to build an infrastructure of research activities utilising genetic epidemiological approaches to address lifecourse research questions, and we strongly encourage consortium members to propose, establish and lead additional extension projects that seek to investigate additional phenotypic areas.
+Instructions and code for cohort analysts are available through the [Lifecourse GWAS analysis wiki](https://github.com/MRCIEU/Lifecourse-GWAS/wiki).
 
-ew or existing members wishing to propose an extension project should do so by completing the [project proposal form](files/Lifecourse%20GWAS%20Consortium%20%E2%80%93%20Pipeline%20access%20request%20form.docx) and submitting the proposal to the core research group. Proposals will undergo a basic evaluation by the executive committee and core research group for practical feasibility and scientific relevance. All accepted project proposals will be published here for transparency. For all approved project proposals, the project lead will be responsible for establishing a dedicated working group and for executing the study, with subsequent papers appropriately attributing the Lifecourse GWAS consortium. More information on this can be found in the Principles of Collaboration document provided. 
+### Phase 2: Age-varying genetic associations
 
-Researchers from a participating cohorts interested in gaining early access to the Lifecourse GWAS consortium summary data may submit a [data request](files/Lifecourse%20GWAS%20Consortium%20%E2%80%93%20Early%20dataset%20request%20form.docx).
+Genome-wide significant variants are evaluated across age groups and life stages. Meta-regression is used to test whether their associations vary with age while accounting for overlap between participants contributing to different age-specific analyses.
+
+Association patterns are then smoothed and clustered to identify groups of variants with similar age-varying profiles. These may include associations that increase, decrease, emerge or peak at particular stages of life.
+
+Sensitivity analyses examine whether observed patterns could be influenced by methodological factors, including selection bias and scale effects.
+
+### Phase 3: Biological interpretation and downstream analyses
+
+Subsequent analyses will:
+
+- Compare age-varying genetic associations across sex and ancestry groups
+- Investigate functional enrichment and biological pathways
+- Examine pleiotropy among variants with age-varying associations
+- Evaluate the performance of polygenic risk scores across ages
+- Develop and evaluate life-stage-specific polygenic risk scores
+- Apply lifecourse Mendelian randomisation to selected exposure–outcome relationships
+
+### Current status
+
+The harmonised cohort-level analysis pipeline has been implemented across participating studies. Age-, sex- and ancestry-stratified results are currently being quality controlled and combined through meta-analysis.
+
+## Extension projects
+
+The Consortium welcomes proposals for additional projects that build on its infrastructure, data and methods.
+
+New or existing Consortium members wishing to propose an extension project should complete the [project proposal form](files/Lifecourse%20GWAS%20Consortium%20%E2%80%93%20Pipeline%20access%20request%20form.docx) and submit it to the working group.
+
+Proposals will be reviewed by the working group and steering committee for scientific relevance, feasibility and overlap with existing work. The lead of an approved project will be responsible for establishing an appropriate working group, delivering the research and ensuring that the contribution of the Lifecourse GWAS Consortium is appropriately recognised.
+
+Further information about project leadership, authorship, software and data sharing is provided in the Consortium’s Principles of Collaboration.
+
+## Data requests
+
+Researchers from participating studies who wish to request access to emerging Consortium summary data should complete the [early data request form](files/Lifecourse%20GWAS%20Consortium%20%E2%80%93%20Early%20dataset%20request%20form.docx).
+
+Requests will be reviewed in accordance with the Consortium’s Principles of Collaboration and any restrictions imposed by contributing studies.
+
+For questions about projects or data requests, please contact [lifecourse-gwas-group@bristol.ac.uk](mailto:lifecourse-gwas-group@bristol.ac.uk).
