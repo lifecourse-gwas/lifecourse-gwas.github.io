@@ -1,33 +1,113 @@
 ---
-title: "The Lifecourse GWAS consortium"
+title: "The Lifecourse GWAS Consortium"
 ---
 
-The Lifecourse GWAS consortium was established by researchers at the MRC Integrative Epidemiology Unit (University of Bristol) to gain a better understanding of how exposures experienced at different stages in the lifecourse may influence later life health outcomes. 
+The Lifecourse GWAS Consortium is an international collaboration led by researchers at the MRC Integrative Epidemiology Unit, University of Bristol. It brings together 50 cohort studies and biobanks to investigate how genetic associations with complex traits vary across the lifecourse.
 
-### Aims and Objectives 
- 
-Understanding how the influence of risk factors on disease change over the lifecourse can be improved in a Mendelian randomization framework. However age-stratified genetic effects are required for such analyses. As a result, we are seeking to establish a consortium dedicated to generating and integrating data using an age-stratified GWAS approach.
+Genome-wide association studies commonly combine measurements collected at different ages and therefore implicitly assume that genetic associations remain constant over time. However, genetic variants may influence traits differently at different stages of life. The Lifecourse GWAS Consortium addresses this by generating harmonised, age-, sex- and ancestry-stratified genome-wide association results for 26 phenotypes measured from infancy to later adulthood.
 
-To explore how selected exposures at different stages in the lifecourse modify risk, we will:
+### Aim
 
-1. Generate GWAS summary data for specified ages and age-ranges across the lifecourse for 24 phenotypes.
-2. Combine results by meta-analysing at the age X phenotype X sex level across studies.
-3. Model changes in genetic effects over time at the post-meta-analysis stage.
-4. Evaluate the influence of biasing mechanisms on GxAge interaction estimates.
-5. Conduct post GxAge analyses, for e.g. time-varying MR, and provide a user-friendly tool for researchers interested in using the data generated. 
+The Consortium aims to investigate whether genetic associations vary systematically across the lifecourse and to improve understanding of the temporal genetic architecture of complex traits.
 
-### Current status
+### Objectives
 
-We are currently recruiting studies to join the Consortium. Please [contact us](mailto:lifecourse-gwas-group@bristol.ac.uk) and complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG0U72k35TltGgATkuYTORv1UOFpZQVlHRDBHWUlVUFkzVjNZMjdBMTdMWS4u) if you are interested in being involved. We welcome contributions to the broader analysis and joining the writing group. You are also welcome to propose new projects that you would lead that build on the consortium infrastructure.
+The Consortium’s objectives are to:
 
-### Core group and Scientific advisory board
+1. Generate harmonised genome-wide association results for 26 anthropometric, cardiometabolic, inflammatory, respiratory, endocrine and other health-related phenotypes.
+2. Conduct analyses at annual ages from infancy to 19 years, in five-year age groups across adulthood, and within broader life stages.
+3. Examine genetic associations separately by sex and across European, African, East Asian, South Asian and admixed or other ancestry groups.
+4. Combine results across contributing studies using methods that account for overlap between participants contributing measurements at different ages.
+5. Identify genetic variants whose associations vary with age and model the timing and pattern of these changes across the lifecourse.
+6. Group variants according to shared patterns of age-varying genetic association.
+7. Investigate the biological and methodological drivers of age-varying genetic associations, including biological pathways, pleiotropy, selection bias and scale effects.
+8. Evaluate how the predictive performance of polygenic risk scores varies across age, sex and ancestry.
+9. Generate genetic instruments for downstream lifecourse Mendelian randomisation analyses examining whether the effects of selected exposures differ between life stages.
 
-The core research group comprises: 
+### Participating studies and biobanks
 
-Dr. Grace Power, Prof. Gibran Hemani, Dr. Eleanor Sanderson, Dr. Genevieve Leyden and Dr. David Carslake 
+The Consortium includes studies spanning childhood, adolescence and adulthood from Europe, North America, Asia and Australia. Together, they provide measurements across a wide range of ages and ancestral groups.
 
-The scientific advisory board has been set-up to provide independent oversight and review the development of the Lifecourse GWAS consortium. The finalised list of these members is TBC.  
+Participating studies and biobanks include:
 
-### Contact information
+- Avon Longitudinal Study of Parents and Children (ALSPAC)
+- UK Biobank
+- Cardiovascular Risk in Young Finns Study (CRYFS)
+- Norwegian Mother, Father and Child Cohort Study (MoBa)
+- Special Turku Coronary Risk Factor Intervention Project (STRIP)
+- Born in Bradford (BiB)
+- Lifelines Cohort Study
+- Generation Scotland
+- Generation R Study 3
+- Generation R Study 4
+- Trøndelag Health Study (HUNT)
+- Millennium Cohort Study (MCS 1)
+- Born in Guangzhou Cohort – HKU 97BC
+- Saguenay Youth Study (SYS)
+- Nicotine Dependence in Teens Study (NDIT)
+- FinnGen
+- Raine Study (Western Australian Pregnancy Cohort)
+- National Child Development Study (NCDS 1958)
+- British Cohort Study (BCS 1970)
+- BioMe Biobank
+- Northern Finland Birth Cohort 1966 (NFBC 1966)
+- Northern Finland Birth Cohort 1986 (NFBC 1986)
+- Netherlands Epidemiology of Obesity (NEO)
+- Cardiovascular Health Study (CHS)
+- Rotterdam Study 1–4
+- Netherlands Twin Register (NTR)
+- Understanding Society (UKHLS)
+- Gene-Environment-Development Initiative (GEDI, VCU)
+- Copenhagen Prospective Studies on Asthma in Childhood (COPSAC)
+- GINIplus and LISA
+- Busselton Health Study
+- AugUR Study
+- DIACORE Study
+- INMA – INfancia y Medio Ambiente
+- HELIX – Human Early-Life Exposome
+- MyCode Community Health Initiative
+- Tohoku Medical Megabank Birth and Three-Generation Cohort
+- Ophthalmic Western Australia Biobank
+- Beijing Eye Study 1
+- Beijing Eye Study 2
+- Japan Environment and Children’s Study (JECS)
+- Harokopio University of Athens BioBank (HUABB)
+- EXCEED Cohort
+- Diabetes Heart Study (DHS)
+- African American Diabetes Heart Study (AA-DHS)
+- Multi-Ethnic Study of Atherosclerosis (MESA)
+- Estonian Biobank
 
-To get in touch please email [lifecourse-gwas-group@bristol.ac.uk](mailto:lifecourse-gwas-group@bristol.ac.uk)
+### Working group
+
+The working group is responsible for the Consortium’s scientific direction, coordination and delivery:
+
+- **Grace M. Power (lead)** — University of Bristol and The University of Queensland
+- **Genevieve Leyden** — University of Bristol
+- **David Carslake** — University of Bristol
+- **Roya Karimi** — University of Bristol and University of Bergen
+- **Stefan Johansson** — University of Bergen
+- **George Davey Smith** — University of Bristol
+- **Eleanor Sanderson** — University of Bristol
+- **Gibran Hemani** — University of Bristol
+
+### Steering committee
+
+The steering committee provides strategic and scientific guidance:
+
+- **Maria Carolina Borges** — University of Bristol
+- **Neil Davies** — University College London and Norwegian University of Science and Technology
+- **Rachel M. Freathy** — University of Exeter
+- **Diana Kuh** — University College London
+- **Nicole Warrington** — The University of Queensland
+
+### Code review
+
+Review of the Consortium’s analysis code is undertaken by:
+
+- **Aimee Hanson** — University of Bristol
+- **Venexia Walker** — University of Bristol and University of Pennsylvania
+
+### Contact
+
+For enquiries about the Consortium, collaboration or use of its emerging resources, please contact [lifecourse-gwas-group@bristol.ac.uk](mailto:lifecourse-gwas-group@bristol.ac.uk).
