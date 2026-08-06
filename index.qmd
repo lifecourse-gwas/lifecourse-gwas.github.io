@@ -28,56 +28,6 @@ The Consortium’s objectives are to:
 
 The Consortium includes studies spanning childhood, adolescence and adulthood from Europe, North America, Asia and Australia. Together, they provide measurements across a wide range of ages and ancestral groups.
 
-Participating studies and biobanks include:
-
-- Avon Longitudinal Study of Parents and Children (ALSPAC)
-- UK Biobank
-- Cardiovascular Risk in Young Finns Study (CRYFS)
-- Norwegian Mother, Father and Child Cohort Study (MoBa)
-- Special Turku Coronary Risk Factor Intervention Project (STRIP)
-- Born in Bradford (BiB)
-- Lifelines Cohort Study
-- Generation Scotland
-- Generation R Study 3
-- Generation R Study 4
-- Trøndelag Health Study (HUNT)
-- Millennium Cohort Study (MCS 1)
-- Born in Guangzhou Cohort – HKU 97BC
-- Saguenay Youth Study (SYS)
-- Nicotine Dependence in Teens Study (NDIT)
-- FinnGen
-- Raine Study (Western Australian Pregnancy Cohort)
-- National Child Development Study (NCDS 1958)
-- British Cohort Study (BCS 1970)
-- BioMe Biobank
-- Northern Finland Birth Cohort 1966 (NFBC 1966)
-- Northern Finland Birth Cohort 1986 (NFBC 1986)
-- Netherlands Epidemiology of Obesity (NEO)
-- Cardiovascular Health Study (CHS)
-- Rotterdam Study 1–4
-- Netherlands Twin Register (NTR)
-- Understanding Society (UKHLS)
-- Gene-Environment-Development Initiative (GEDI, VCU)
-- Copenhagen Prospective Studies on Asthma in Childhood (COPSAC)
-- GINIplus and LISA
-- Busselton Health Study
-- AugUR Study
-- DIACORE Study
-- INMA – INfancia y Medio Ambiente
-- HELIX – Human Early-Life Exposome
-- MyCode Community Health Initiative
-- Tohoku Medical Megabank Birth and Three-Generation Cohort
-- Ophthalmic Western Australia Biobank
-- Beijing Eye Study 1
-- Beijing Eye Study 2
-- Japan Environment and Children’s Study (JECS)
-- Harokopio University of Athens BioBank (HUABB)
-- EXCEED Cohort
-- Diabetes Heart Study (DHS)
-- African American Diabetes Heart Study (AA-DHS)
-- Multi-Ethnic Study of Atherosclerosis (MESA)
-- Estonian Biobank
-
 ### Working group
 
 The working group is responsible for the Consortium’s scientific direction, coordination and delivery:
