@@ -2,7 +2,6 @@
 title: "Projects"
 ---
 
-## Lifecourse genome-wide association analyses of 26 phenotypes
 
 The Consortium’s principal analysis examines how genetic associations with 26 phenotypes vary from infancy to later adulthood.
 
